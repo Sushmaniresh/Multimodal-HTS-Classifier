@@ -15,9 +15,9 @@ This demo combines **BLIP (image captioning)** and **OpenAI GPT-4** to generate 
 
 ---
 
-## 🚀 Live App (Coming Soon)
+## 🚀 Live App 
 
-> Deployed version will be accessible via Streamlit Cloud
+https://multimodal-hts-classifier.streamlit.app/
 
 ---
 
@@ -37,11 +37,11 @@ This demo combines **BLIP (image captioning)** and **OpenAI GPT-4** to generate 
 git clone https://github.com/your-username/hts-classifier-demo.git
 cd hts-classifier-demo
 
-2. **Install dependencies**
+2. Install dependencies
 pip install -r requirements.txt
 
-3. **create .env*
+3. create .env
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-4. **Run the app*
+4. Run the app
 streamlit run main.py
