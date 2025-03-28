@@ -17,7 +17,7 @@ This demo combines **BLIP (image captioning)** and **OpenAI GPT-4** to generate 
 
 ## 🚀 Live App 
 
-https://multimodal-hts-classifier.streamlit.app/
+
 
 ---
 
